@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-thumbs .swiper-slide {
+    opacity: 0.4;
+}
+
+.swiper-thumbs .swiper-slide-thumb-active {
+    opacity: 1;
+}
