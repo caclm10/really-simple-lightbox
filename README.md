@@ -1,6 +1,6 @@
 # Really Simple Lightbox
 
-Just a simple lightbox, but work.
+Just a simple lightbox, but works.
 
 ## Live Website
 
